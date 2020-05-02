@@ -1,0 +1,13 @@
+{
+    "name": "netdotter787/rank",
+    "description": "A helper library for sorting a list of data with a rank value",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abin Andrews",
+            "email": "abinandrews@gmail.com"
+        }
+    ],
+    "require": {}
+}
